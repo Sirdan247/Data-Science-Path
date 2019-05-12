@@ -1,0 +1,8 @@
+1.  Go through given files and run background research on problem topic 
+2.  Import libraries
+3.  Reading training and test data
+4.  Drop some features/columns 
+5.  Import from xgboost and define model. Also import train_test_split from sklearn and define X and y.
+6.  Fit X_train and y_train and check performance
+7.  Fit X and y and match it with submission sample format
+8.  Convert to csv for submission
